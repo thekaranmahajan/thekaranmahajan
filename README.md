@@ -11,6 +11,8 @@
 ###
 
 <p align="left">📚 I'm currently learning Machine Learning</p>
+<p align="center"><img src="https://github.com/thekaranmahajan/thekaranmahajan/assets/27768620/e3f371d1-04b0-4609-9c6d-f3a576155993" width="600" height="350"/></p>
+
 
 ###
 
