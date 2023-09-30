@@ -1,3 +1,5 @@
+[![An image of @thekaranmahajan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thekaranmahajan)](https://holopin.io/@thekaranmahajan)
+
 <h1 align="left">Hey there 👋</h1>
 
 ###
