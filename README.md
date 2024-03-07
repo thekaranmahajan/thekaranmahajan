@@ -39,7 +39,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="nestjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
   <img width="12" />
@@ -75,8 +75,8 @@
   <a href="https://stackoverflow.com/users/22371959"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  /></a>
   <a href="https://discord.com/users/851623981337280554"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  /></a>
   <a href="https://www.hackerrank.com/thekaranmahajan"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  /></a>
-  <a href="https://www.codechef.com/users/maverick_karan"><img src="https://camo.githubusercontent.com/45b4809511187037c708ce2525707547a9483131647372f973db1e8263b26927/68747470733a2f2f6769746775642e696f2f75706c6f6164732f2d2f73797374656d2f67726f75702f6176617461722f31323239342f63632e706e67" alt="Codechef logo" width="47" height="45" data-canonical-src="https://gitgud.io/uploads/-/system/group/avatar/12294/cc.png" style="max-width: 100%;"></a>
-  <a href="https://leetcode.com/maverick_karan"><img src="https://camo.githubusercontent.com/2454f972a29b1c10bf92c7dfaa9ec82b7bc2952a706178eadaf7384779bd4782/68747470733a2f2f696d672e69636f6e73382e636f6d2f65787465726e616c2d74616c2d72657669766f2d636f6c6f722d74616c2d72657669766f2f39362f3030303030302f65787465726e616c2d6c6576656c2d75702d796f75722d636f64696e672d736b696c6c732d616e642d717569636b6c792d6c616e642d612d6a6f622d6c6f676f2d636f6c6f722d74616c2d72657669766f2e706e67" alt="leetcode logo" height="40" width="40"></a>
+  <a href="https://www.codechef.com/users/maverick_karan"><img src="https://github.com/thekaranmahajan/thekaranmahajan/assets/27768620/d684998f-b961-4cee-a3c8-b660ae2fd547" alt="Codechef logo" width="47" height="45" data-canonical-src="https://gitgud.io/uploads/-/system/group/avatar/12294/cc.png" style="max-width: 100%;"></a>
+  <a href="https://leetcode.com/maverick_karan"><img src="https://github.com/thekaranmahajan/thekaranmahajan/assets/27768620/d2d5dc6d-9239-4f9e-b84c-1f1289f1dc6c" alt="leetcode logo" height="40" width="40"></a>
 
 <!--   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  /> -->
